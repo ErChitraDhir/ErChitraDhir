@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Open-source projects that make a real difference and Crazy ideas that combine AI and web dev.
 - 📫 How to reach me https://www.linkedin.com/in/chitra-dhir-7669b7220/
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I can code in more languages than I can speak. 
+
 
 <!---
 ErChitraDhir/ErChitraDhir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
