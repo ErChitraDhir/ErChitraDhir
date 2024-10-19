@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫  Hi!!! My name is Chitra Dhir 👋:
 🔭 I’m passionate about Web Development & Machine Learning <br>🌱 I’m currently learning DSA.<br>💬 Ask me about GANS and Numerology.
 
 
