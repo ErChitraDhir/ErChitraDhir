@@ -12,6 +12,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ErChitraDhir&icon=5&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=ErChitraDhir&label=Profile%20Views&color=0&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
